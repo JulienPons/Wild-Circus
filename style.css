@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+body
+{
+  background-color: #3E4B4F;
+  color: #E1E7ED;
+  font-family: 'Amatic SC';
+}
+
+.jumbotron
+{
+  padding-top: 130px;
+  background-color: #1F897B
+}
+
+.card
+{
+  background-color: #E1E7ED;
+  margin-bottom: 50px
+}
+
+.card-text
+{
+  color: #3E4B4F;
+  padding: 15px;
+  margin: auto
+}
+
+table
+{
+  border-collapse: collapse;
+  margin: auto;
+  margin-bottom: 15px;
+}
+
+td, th
+{
+  border: 1px solid white
+}
+
+h1
+{
+  margin: auto;
+  text-align: center;
+  font-size: 100px;
+  color: orange
+}
+
+h2
+{
+  margin: auto;
+  text-align: center;
+  padding: 70px;
+  margin-bottom: 20px;
+  font-size: 50px;
+  color: yellow
+}
+
+h3
+{
+  font-size: 30px
+}
+
+h4
+{
+  margin: left;
+  margin-bottom: 10px;
+  font-size: 25px;
+  color: #f87816
+}
+
+h5
+{
+  width: 30%;
+  margin: auto;
+  margin-bottom: 10px;
+  font-size: 30px;
+  color: #3E4B4F;
+}
+
+
+p
+{
+  margin-bottom: 20px;
+  font-size: 20px
+}
+
+textarea
+{
+  width: 400px;
+  height: 120px
+}
+
+.about
+{
+  width: 70%;
+  margin-bottom: 35px;
+  font-size: 20px
+}
+.footer
+{
+  margin-bottom: 20px;
+  font-size: 20px
+}
+
+.margin-bot-20
+{
+  margin-bottom: 20px;
+}
+
+.font-15
+{
+  font-size: 15px;
+}
+
+.navbar
+{
+  font-size: 25px;
+  padding-left:20px;
+  background-color: #e3f2fd
+}
+
+.review
+{
+  color: gold
+}
+
+.color-std
+{
+  color: #E1E7ED
+}
